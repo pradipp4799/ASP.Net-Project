@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\controllers\\shirtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\controllers\\shirtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\controllers\\pantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\controllers\\pantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\filters\\actionfilters\\shirt_validateshirtaddfilterattributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\filters\\actionfilters\\shirt_validateshirtaddfilterattributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\filters\\actionfilters\\shirt_validateshirtidfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\filters\\actionfilters\\shirt_validateshirtidfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\filters\\actionfilters\\shirt_validateupdateshirtfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\filters\\actionfilters\\shirt_validateupdateshirtfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\models\\repository\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\models\\repository\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\models\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\models\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\webapplication_shirts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\webapplication_shirts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|c:\\users\\admin patil\\source\\repos\\webapplication_shirts\\webapplication_shirts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD6EB9-0A75-43A3-AAB4-D35648715D8A}|WebApplication_Shirts\\WebApplication_Shirts.csproj|solutionrelative:webapplication_shirts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:14:58.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PantsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Controllers\\PantsController.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\Controllers\\PantsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Controllers\\PantsController.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\Controllers\\PantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:13:09.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShirtsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Controllers\\ShirtsController.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\Controllers\\ShirtsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Controllers\\ShirtsController.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\Controllers\\ShirtsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:13:07.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shirt_ValidateShirtAddFilterAttributer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateShirtAddFilterAttributer.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateShirtAddFilterAttributer.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateShirtAddFilterAttributer.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateShirtAddFilterAttributer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:13:06.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shirt_ValidateShirtIdFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateShirtIdFilterAttribute.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateShirtIdFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateShirtIdFilterAttribute.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateShirtIdFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:13:06.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shirt_ValidateUpdateShirtFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateUpdateShirtFilterAttribute.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateUpdateShirtFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateUpdateShirtFilterAttribute.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\Filters\\ActionFilters\\Shirt_ValidateUpdateShirtFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:13:04.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Models\\Repository\\ShirtRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\Models\\Repository\\ShirtRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Models\\Repository\\ShirtRepository.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\Models\\Repository\\ShirtRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:12:37.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shirt.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Models\\Shirt.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\Models\\Shirt.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Models\\Shirt.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\Models\\Shirt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:12:38.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApplication_Shirts",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\WebApplication_Shirts.csproj",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\WebApplication_Shirts.csproj",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\WebApplication_Shirts.csproj",
+              "RelativeToolTip": "WebApplication_Shirts\\WebApplication_Shirts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T05:12:01.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication_Shirts\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN patil\\source\\repos\\WebApplication_Shirts\\WebApplication_Shirts\\Program.cs",
+              "RelativeToolTip": "WebApplication_Shirts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:08:54.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
