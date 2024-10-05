@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
+using WebApi.Models;
+using WebApi.Models.Repositories;
 
 namespace WebApi.Filters
 {
@@ -24,7 +26,24 @@ namespace WebApi.Filters
                     };
                     context.Result=new BadRequestObjectResult(ProblemDetails);
                 }
+                else if(ShirtId!=shirt.ShirtId){
+                      context.ModelState.AddModelError("ShirtId","Shirt does'nt  Matches to each other");
+                         var ProblemDetails=new ValidationProblemDetails(context.ModelState)
+                    {
+                        Status=StatusCodes.Status404NotFound
+                    };
+                    context.Result=new NotFoundObjectResult(context.ModelState);
+                }
+                     else if(!ShirtRepository.ShirtExists(ShirtId.Value)){
+                      context.ModelState.AddModelError("ShirtId","Shirt does'nt exit");
+                         var ProblemDetails=new ValidationProblemDetails(context.ModelState)
+                    {
+                        Status=StatusCodes.Status404NotFound
+                    };
+                    context.Result=new NotFoundObjectResult(context.ModelState);
+                }
+          }
+  
         }
-
     }
 }

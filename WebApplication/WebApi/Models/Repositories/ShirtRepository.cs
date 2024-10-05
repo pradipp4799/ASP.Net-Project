@@ -24,9 +24,13 @@ namespace WebApi.Models.Repositories
         public static List<Shirt> GetAllShirts(){
             return shirts;
         }
-        public static bool ShirtExists(int id)
+        public static bool ShirtExists(int? id)
         {
             return shirts.Any(x=>x.ShirtId==id);
+        }
+
+        public static void DeleteShirt(Shirt shirt){
+            shirts.Remove(shirt);
         }
 
         public static Shirt? GetShirtById(int id){
@@ -39,7 +43,7 @@ namespace WebApi.Models.Repositories
              !string.IsNullOrWhiteSpace(color) &&!string.IsNullOrWhiteSpace(x.Color) && x.Color.Equals(color,StringComparison.OrdinalIgnoreCase)&&size.HasValue&& x.Size.HasValue&& size.Value==x.Size.Value);
         }
         public static void UpadteShirt(Shirt shirt){
-          Console.WriteLine(shirt.Gender);
+         
             Shirt OldShirt=shirts.First(x=>x.ShirtId==shirt.ShirtId);
             OldShirt.Brand=shirt.Brand;
             OldShirt.Color=shirt.Color;
@@ -48,5 +52,7 @@ namespace WebApi.Models.Repositories
             OldShirt.Gender=shirt.Gender;
 
         }
+
+        
     }
 }

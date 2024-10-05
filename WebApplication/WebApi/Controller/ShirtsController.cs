@@ -38,27 +38,24 @@ namespace WebApi.Controller
             return CreatedAtAction(nameof(GetShirtById),new {id=shirt.ShirtId},shirt);
         }
         [HttpPut("{id}")]
+        [Shirt_ValidateUpdateShirtFilter]
         //[Route("/shirts/{id}")]
         public IActionResult UpdateShirt(int id,Shirt shirt){
-            Console.WriteLine(shirt.Brand);
-            if(id!= shirt.ShirtId) return BadRequest();
-            try{
-                Console.WriteLine(shirt.Brand);
+           
                ShirtRepository.UpadteShirt(shirt);
-            }
-            catch{
-                if(!ShirtRepository.ShirtExists(id)){
-                    return NotFound();
-                }
-
-            }
-            return NoContent();
+         
+            return Ok(shirt);
         }
             
         [HttpDelete("{id}")]
+        [Shirt_ValidateShirtIdFilter]
        // [Route("/shirts/{id}")]
-        public string DeleteShirtById(int id){
-            return $"Deleting Shirt :{id}";
+        public IActionResult DeleteShirtById(int id){
+            Shirt shirt=ShirtRepository.GetShirtById(id);
+            ShirtRepository.DeleteShirt(shirt);
+
+            return Ok();
+
         }
     }
 }
